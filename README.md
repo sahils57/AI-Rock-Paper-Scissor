@@ -1,3 +1,4 @@
+2017 CS 542 - Boston University
 # AI-Rock-Paper-Scissor
 Simple AI program to beat New York Times's computer. 
 Assignment
